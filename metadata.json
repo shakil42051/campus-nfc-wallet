@@ -1,0 +1,5 @@
+{
+  "name": "Campus NFC Wallet",
+  "description": "Securely detect, read, analyze, and manage campus NFC/RFID ID cards with hardware security analysis, optical Code 128B pass rendering, encrypted vault backups, and attendance logging.",
+  "requestFramePermissions": []
+}

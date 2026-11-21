@@ -1,0 +1,39 @@
+# Android & Gradle build outputs
+*.iml
+.gradle/
+.kotlin/
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Local IDE & OS files
+local.properties
+/local.properties
+.DS_Store
+Thumbs.db
+.idea/
+
+# Critical Secrets, Keystores & Credentials (NEVER COMMIT)
+*.jks
+*.keystore
+debug.keystore
+my-upload-key.jks
+*.pem
+*.key
+*.p12
+.env
+.env.*
+secrets.properties
+google-services.json
+
+# Internal AI / Prompt scratch files
+.aistudio/
+assets/.aistudio/
+MASTER_PROMPT.md
+campus_nfc_wallet_master_prompt.md
+
+# Allow prebuilt release APK in releases/
+!releases/
+!releases/*.apk

@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Card Frame -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M28,34 C28,30.686 30.686,28 34,28 L74,28 C77.314,28 80,30.686 80,34 L80,74 C80,77.314 77.314,80 74,80 L34,80 C30.686,80 28,77.314 28,74 Z" />
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M28,48 L80,48 L80,74 C80,77.314 77.314,80 74,80 L34,80 C30.686,80 28,77.314 28,74 Z" />
+    <!-- Gold Chip -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M34,36 C34,34.895 34.895,34 36,34 L46,34 C47.105,34 48,34.895 48,36 L48,44 C48,45.105 47.105,46 46,46 L36,46 C34.895,46 34,45.105 34,44 Z" />
+    <!-- Contactless Wave lines -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M62,34 C64,36 64,39 62,41" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M66,31 C70,35 70,42 66,46" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M70,28 C76,34 76,45 70,51" />
+    <!-- Security Shield / Lock badge -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,58 L68,58 C68,68 54,73 54,73 C54,73 40,68 40,58 L54,58 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,61 L65,61 C65,67.5 54,71.2 54,71.2 C54,71.2 43,67.5 43,61 L54,61 Z" />
+</vector>
