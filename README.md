@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="app_logo.png" alt="Campus NFC Wallet Logo" width="110" />
+  <img src="app_logo.svg" alt="Campus NFC Wallet Logo" width="110" />
   <h1>Campus NFC Wallet</h1>
-  <p><strong>Enterprise-Grade University NFC Card Analyzer, Encrypted Digital Pass Vault &amp; Campus Attendance Terminal for Android</strong></p>
+  <p><strong>University NFC Card Analyzer, Encrypted Digital Pass Vault &amp; Campus Attendance Terminal for Android</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/Platform-Android%208.0%2B%20(API%2026--36)-3DDC84?logo=android&logoColor=white" alt="Android API 26+" />
@@ -12,7 +12,9 @@
   </p>
 
   <p>
-    <a href="releases/CampusNfcWallet-v1.0.0-debug.apk"><strong>📦 Download Ready-to-Install APK (v1.0.0)</strong></a>
+    <a href="https://github.com/shakil42051/campus-nfc-wallet/releases/latest/download/CampusNfcWallet-v1.0.0-debug.apk"><strong>📦 Download Ready-to-Install APK (v1.0.0)</strong></a>
+    &nbsp;•&nbsp;
+    <a href="https://github.com/shakil42051/campus-nfc-wallet/releases/latest"><strong>🏷️ View GitHub Release</strong></a>
   </p>
 </div>
 
@@ -79,7 +81,7 @@ When linking the app to your university backend in **Settings → Campus Server 
 ## 🚀 Installation & Build Instructions
 
 ### Option A: Install Prebuilt APK (Fastest)
-1. Download [`releases/CampusNfcWallet-v1.0.0-debug.apk`](releases/CampusNfcWallet-v1.0.0-debug.apk).
+1. Download [`CampusNfcWallet-v1.0.0-debug.apk`](https://github.com/shakil42051/campus-nfc-wallet/releases/latest/download/CampusNfcWallet-v1.0.0-debug.apk) from the [Latest GitHub Release](https://github.com/shakil42051/campus-nfc-wallet/releases/latest) (or from `releases/CampusNfcWallet-v1.0.0-debug.apk`).
 2. Install on a physical Android device or emulator (such as MuMuPlayer):
    ```bash
    adb install -r releases/CampusNfcWallet-v1.0.0-debug.apk
